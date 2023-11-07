@@ -4,7 +4,7 @@ const config = {
     host : 'localhost',
     database : 'test',
     username : 'root',
-    password : 'Zl739#*n!m96',
+    password : '123456',
     port: 3306,
     connectionLimit: 10,
 }

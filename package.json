@@ -1,15 +1,15 @@
 {
   "name": "express-admin",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "基于express的后端",
   "main": "index.js",
   "scripts": {
     "dev": "node ./src/server.js",
     "build": "webpack --mode production"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Noah-Zhong",
+  "license": "MIT",
   "dependencies": {
     "cookie-parser": "^1.4.6",
     "express": "^4.18.2",
